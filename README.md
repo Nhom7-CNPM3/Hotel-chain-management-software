@@ -1,1 +1,2 @@
-# Hotel chain management software
+# Phần mềm quản lý chuỗi khách sạn
+# Tính năng
